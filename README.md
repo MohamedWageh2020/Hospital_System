@@ -1,9 +1,9 @@
-#Hospital Queue Management System
+# Hospital Queue Management System
 This project implements a Hospital Queue Management System using C++. 
 The system is designed to manage patient queues for different medical specializations,
 allowing for the addition of patients, viewing the current patient queues, and serving the next patient.
 
-#Features
+# Features
 1-Queue Management: The system provides a dynamic queue management mechanism for multiple medical specializations. 
   Each specialization has its own queue, accommodating both regular and urgent patients.
 
@@ -20,7 +20,7 @@ allowing for the addition of patients, viewing the current patient queues, and s
   Users can select options to perform tasks such as adding patients, printing patient queues, serving patients, and exiting the system.
 
 
-#Code Structure
+# Code Structure
 The project is divided into two main structs:
 
 1-hospital_queue: Represents a queue for a specific medical specialization. 
@@ -30,7 +30,7 @@ The project is divided into two main structs:
   This struct contains functions to run the main loop, display the menu, and manage patient interactions.
 
 
-#How to Use
+# How to Use
 1-Clone the repository to your local machine.
 2-Compile the C++ code using a C++ compiler (e.g., g++).
 3-Run the compiled executable to launch the Hospital Queue Management System.
